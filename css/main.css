@@ -1,28 +1,29 @@
 .roboto {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
 }
- .luck {
-   font-family: "Luckiest Guy", serif;
+
+.luck {
+  font-family: "Luckiest Guy", serif;
  }
 
- .open {
-   font-family: "Open Sans", serif;
+.open {
+  font-family: "Open Sans", serif;
  }
 
- html {
-   background-color: #f47d22;
+html {
+  background-color: #f47d22;
  }
 
- .style {
-   background-color: #000;
-   margin-top: .5em;
-   margin-left: .5em;
-   margin-right: .5em;
-   border-radius: 10px;
+.style {
+  background-color: #000;
+  margin-top: .5em;
+  margin-left: .5em;
+  margin-right: .5em;
+  border-radius: 10px;
  }
 
- .white-text {
-   color: #fff;
+.white-text {
+  color: #fff;
  }
 
 .brown-text {
