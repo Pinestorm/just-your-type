@@ -1,0 +1,32 @@
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+ .luck {
+   font-family: "Luckiest Guy", serif;
+ }
+
+ .open {
+   font-family: "Open Sans", serif;
+ }
+
+ html {
+   background-color: #000;
+ }
+
+ .white-text {
+   color: #fff;
+ }
+
+.brown-text {
+  background-color: #b29442;
+  color: #000;
+
+}
+
+.orange-text {
+  color: #e07223;
+}
+
+.red-text {
+  color: #d1450e;
+}
