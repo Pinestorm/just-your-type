@@ -10,7 +10,15 @@
  }
 
  html {
+   background-color: #f47d22;
+ }
+
+ .grid {
    background-color: #000;
+   margin-top: .5em;
+   margin-left: .5em;
+   margin-right: .5em;
+   border-radius: 10px;
  }
 
  .white-text {
