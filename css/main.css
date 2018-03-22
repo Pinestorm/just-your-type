@@ -20,7 +20,8 @@
 .brown-text {
   background-color: #b29442;
   color: #000;
-
+  border-style: solid;
+  border-radius: 8px;
 }
 
 .orange-text {
